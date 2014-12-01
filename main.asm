@@ -1,4 +1,3 @@
-# Radosław Nowak
 # CORDIC
 # xxxx.<...>
 	.data
